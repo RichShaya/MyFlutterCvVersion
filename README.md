@@ -1,16 +1,9 @@
-# mock_cv_flutter
+# My cv with Flutter
 
-A new Flutter project.
 
-## Getting Started
+# Mobile & Web Screenshot
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/109880501/208935470-817c94a7-2ab1-422b-a5bd-ce28dc4d1e9f.png)
+![image](https://user-images.githubusercontent.com/109880501/208935505-3d1b93d0-eca7-4413-a4c4-502f4a9f7ea1.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
