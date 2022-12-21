@@ -1,4 +1,5 @@
-# My cv with Flutter
+# My CV With The Flutter
+----
 
 
 # Mobile & Web Screenshot
@@ -7,3 +8,6 @@
 ![image](https://user-images.githubusercontent.com/109880501/208935505-3d1b93d0-eca7-4413-a4c4-502f4a9f7ea1.png)
 
 
+# TODO:
+- [ ] Deploy
+- [ ] Reduce Appliaction Size
